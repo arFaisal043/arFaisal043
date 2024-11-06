@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 📝 I’m doing my undergraduate in Computer Science and Engineering
 - 📫 Mail me at arfaisal463@gmail.com
-- 🚀 Here is my LinkedIn profile URL: https://www.linkedin.com/in/abdur-rahman-faisal-a998ba291/
+- 🚀 Here is my LinkedIn profile URL: https://www.linkedin.com/in/abdur-rahman-faisal
 - 🌐 Portfolio Website URL: https://arfaisal043.github.io/faisal.com
 
 
