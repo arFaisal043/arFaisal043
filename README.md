@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdur Rahman Faisal
-- 👀 I’m interested in Software Development
+- 👀 Aspiring Software & Data Engineer
 - 📝 I’m doing my undergraduate in Computer Science and Engineering
 - 📫 Mail me at arfaisal463@gmail.com
 - 🚀 Here is my LinkedIn profile URL: https://www.linkedin.com/in/abdur-rahman-faisal
