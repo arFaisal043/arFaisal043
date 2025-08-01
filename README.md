@@ -13,25 +13,30 @@
 ---
 
 ### 🛠️ **Technical Toolkit**  
-#### **Languages & Frameworks**  
+#### **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-#### **Core Competencies**  
-- **Data Structures & Algorithms** (LeetCode: 50+ problems solved)  
-- **Database Systems**: MongoDB (NoSQL), SQL  
-- **Data Analysis**   
 
-#### **Tools & Platforms**  
+#### **Frameworks & Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
  
+
+### <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="25"> Core Skills
+| **Domain**          | **Expertise**                          |
+|---------------------|----------------------------------------|
+| 🧠 Data Structures & Algorithms | LeetCode 50+ problems (Easy-Medium) |
+| 📊 Data Analytics | Pandas, NumPy, Matplotlib, Power BI, Excel |
+| 🗃️ Database Systems | MongoDB, SQL, ETL Pipelines |
+| ⚙️ System Design    | Microservices, REST APIs |
+| 🖥️ Engineering Math  | Calculus, Linear Algebra, Statistics |
+
 
 ---
 
