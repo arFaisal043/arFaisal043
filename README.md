@@ -1,10 +1,14 @@
 # 👋 Hi, I’m Abdur Rahman Faisal  
 **Aspiring Software & Data Engineer** | CS Undergrad @ Southeast University  
 
-[![Email](https://img.shields.io/badge/Email-arfaisal463%40gmail.com-red?style=flat&logo=gmail)](mailto:arfaisal463@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdur%20Rahman%20Faisal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdur-rahman-faisal)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Website-orange)](https://arfaisal043.github.io/faisal.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/AR_Faisal/)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📨_Email-arfaisal463%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arfaisal463@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdur-rahman-faisal)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://arfaisal043.github.io/faisal.com)
+[![LeetCode](https://img.shields.io/badge/💻_LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/yourprofile)
+
+</div>
 
 ---
 
@@ -30,6 +34,14 @@
  
 
 ---
+
+## 🚀 **Featured Projects**
+### <img src="https://cdn-icons-png.flaticon.com/512/2331/2331966.png" width="25"> Python File Manager
+[![GitHub Stars](https://img.shields.io/github/stars/arFaisal043/Python-CRUD-Project?style=social)](https://github.com/arFaisal043/Python-CRUD-Project)
+- **CRUD operations** via terminal
+- **Error-resistant** design
+- **Modern pathlib** implementation
+
 
 ### 📊 **Coding Activity**  
 ```text
