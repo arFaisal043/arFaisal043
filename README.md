@@ -10,6 +10,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/AR_Faisal/)
 
 </div>
+
 ---
 
 ### 🛠️ **Technical Toolkit**  
