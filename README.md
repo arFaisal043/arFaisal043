@@ -3,6 +3,7 @@
 **Aspiring Software & Data Engineer** | CS Undergrad @ Southeast University  
 
 <div align="center">
+ 
 [![Email](https://img.shields.io/badge/Email-arfaisal463%40gmail.com-red?style=flat&logo=gmail)](mailto:arfaisal463@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdur%20Rahman%20Faisal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdur-rahman-faisal)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Website-orange)](https://arfaisal043.github.io/faisal.com)
