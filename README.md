@@ -1,14 +1,13 @@
+<div align="center">
 # 👋 Hi, I’m Abdur Rahman Faisal  
 **Aspiring Software & Data Engineer** | CS Undergrad @ Southeast University  
 
-<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-arfaisal463%40gmail.com-red?style=flat&logo=gmail)](mailto:arfaisal463@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdur%20Rahman%20Faisal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdur-rahman-faisal)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Website-orange)](https://arfaisal043.github.io/faisal.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/AR_Faisal/)
 
-</div>
 
 ---
 
@@ -19,7 +18,8 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+<!-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) -->
 
 
 #### **Frameworks & Tools**  
@@ -47,7 +47,7 @@
 - **Error-resistant** design
 - **Modern pathlib** implementation
 
-
+</div>
 ### 📊 **Coding Activity**  
 ```text
 🌱 Currently Learning: Python & SQL for Data Science  
@@ -55,6 +55,7 @@
 ---
 
 > *“Turning coffee into code, one bug at a time.”* ☕💻  
+
 
 
 
