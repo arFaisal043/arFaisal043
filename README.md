@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-arfaisal463%40gmail.com-red?style=flat&logo=gmail)](mailto:arfaisal463@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdur%20Rahman%20Faisal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdur-rahman-faisal)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Website-orange)](https://arfaisal043.github.io/faisal.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/AR_Faisal/)
 
 ---
 
@@ -15,6 +15,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 
 #### **Core Competencies**  
 - **Data Structures & Algorithms** (LeetCode: 50+ problems solved)  
@@ -23,6 +24,8 @@
 
 #### **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
  
 
