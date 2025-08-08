@@ -33,8 +33,9 @@
 ### <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="25"> Core Skills
 | **Domain**          | **Expertise**                          |
 |---------------------|----------------------------------------|
-| 🧠 Data Structures & Algorithms | LeetCode 50+ problems (Easy-Medium) |
-| 📊 Data Analytics | Pandas, NumPy, Matplotlib, Power BI, Excel |
+| ☕ Programming Language | Java, Python, C, C++, JavaScript |
+| 🧠 Data Structures & Algorithms | LeetCode 50+ problems (Easy-Medium-Hard) |
+| 📊 Data Analytics |Python, SQL, Statistics, Pandas, NumPy, Matplotlib, Power BI, Excel |
 | 🗃️ Database Systems | MongoDB, SQL, ETL Pipelines |
 | ⚙️ System Design    | Microservices, REST APIs |
 | 🖥️ Engineering Math  | Calculus, Linear Algebra, Statistics |
@@ -53,7 +54,7 @@
 ### 📊 **Coding Activity**  
 ```text
 🌱 Currently Learning: Python & SQL for Data Science  
-💻 Daily Coding Streak: 20 days  
+💻 Daily Coding Streak on LeetCode: 21 days  
 ---
 
 > *“Turning coffee into code, one bug at a time.”* ☕💻  
