@@ -1,6 +1,6 @@
 
 # 👋 Hi, I’m Abdur Rahman Faisal  
-**Aspiring Software & Data Engineer** | CS Undergrad @ Southeast University  
+**Aspiring Software & Data Engineer** | CSE Undergrad @ Southeast University  
 
 <div align="center">
  
@@ -54,7 +54,7 @@
 ### 📊 **Coding Activity**  
 ```text
 🌱 Currently Learning: Python & SQL for Data Science  
-💻 Daily Coding Streak on LeetCode: 25 days  
+💻 Daily Coding Streak on LeetCode: 27 days  
 ---
 
 > *“Turning coffee into code, one bug at a time.”* ☕💻  
