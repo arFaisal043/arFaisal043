@@ -52,11 +52,13 @@
 
 
 ### 📊 **Coding Activity**  
-```text
+
 🌱 Currently Learning: Python & SQL for Data Science  
-💻 Daily Coding Streak on LeetCode: 27 days  
+💻 Daily Coding Streak on LeetCode: 30 days
+
 ---
 
+```text
 > *“Turning coffee into code, one bug at a time.”* ☕💻  
 
 
