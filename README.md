@@ -61,6 +61,3 @@
 ```text
 > *“Turning coffee into code, one bug at a time.”* ☕💻  
 
-
-
-
