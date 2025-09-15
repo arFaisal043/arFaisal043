@@ -34,7 +34,7 @@
 | **Domain**          | **Expertise**                          |
 |---------------------|----------------------------------------|
 | ☕ Programming Language | Java, Python, C, C++, JavaScript |
-| 🧠 Data Structures & Algorithms | LeetCode 50+ problems (Easy-Medium-Hard) |
+| 🧠 Data Structures & Algorithms | LeetCode 100+ problems (Easy-Medium-Hard) |
 | 📊 Data Analytics |Python, SQL, Statistics, Pandas, NumPy, Matplotlib, Power BI, Excel |
 | 🗃️ Database Systems | MongoDB, SQL, ETL Pipelines |
 | ⚙️ System Design    | Microservices, REST APIs |
@@ -55,6 +55,7 @@
 
 🌱 Currently Learning: Python & SQL for Data Science  
 💻 Daily Coding Streak on LeetCode: 40+ days
+☕ Solve 100+ LeetCode problems(Easy-Medium-Hard)
 
 ---
 
