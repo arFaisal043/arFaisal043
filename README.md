@@ -54,8 +54,8 @@
 ### 📊 **Coding Activity**  
 
 🌱 Currently Learning: Python & SQL for Data Science  
-💻 Daily Coding Streak on LeetCode: 40+ days
 ☕ Solve 100+ LeetCode problems(Easy-Medium-Hard)
+💻 Daily Coding Streak on LeetCode: 40+ days
 
 ---
 
