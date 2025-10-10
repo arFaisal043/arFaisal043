@@ -10,6 +10,11 @@
 
 </div>
 
+🏆 **Coding Achievements**
+
+![LeetCode](https://img.shields.io/badge/LeetCode-50_Solved_Problems-ffa116?style=for-the-badge&logo=leetcode)
+![100 Days](https://img.shields.io/badge/100_Days_of_Code-Complete-success?style=for-the-badge)
+
 ---
 
 ### 🛠️ **Technical Toolkit**  
