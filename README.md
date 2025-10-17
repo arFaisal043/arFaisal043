@@ -38,13 +38,6 @@
 
 ---
 
-## 🚀 **Featured Projects**
-### <img src="https://cdn-icons-png.flaticon.com/512/2331/2331966.png" width="25"> Python File Manager
-[![GitHub Stars](https://img.shields.io/github/stars/arFaisal043/Python-CRUD-Project?style=social)](https://github.com/arFaisal043/Python-CRUD-Project)
-- Terminal-based **CRUD operations**
-- **Error-resistant** design
-- Modern **pathlib** implementation
-
 ### 📊 **Coding Activity**  
 🌱 Currently Learning: Python & SQL for Data Science  
 ☕ Solved 100+ LeetCode problems (Easy-Medium-Hard)  
