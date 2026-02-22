@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Abdur Rahman Faisal  
-**Aspiring Software & Data Engineer** | CSE Undergrad @ Southeast University  
+**Aspiring Software & Cloud Engineer** | CSE Undergrad @ Southeast University  
 
 <div align="center">
 
