@@ -37,7 +37,7 @@
 | 🧠 Data Structures & Algorithms | 100+ LeetCode problems |
 | ⚙️ Backend Development | CRUD APIs, Authentication, Security, Deployment |
 | 📊 Data Analytics | Python, SQL, Pandas, NumPy, Power BI |
-| 🗃️ Database Systems | MongoDB, SQL, ETL Pipelines |
+| 🗃️ Database Systems | PostgreSQL, MySQL, MongoDB |
 | ⚙️ System Design | REST APIs, Backend Architecture, Database Design, Microservices |
 | 🖥️ Engineering Math | Calculus, Linear Algebra, Statistics, Vector |
 
