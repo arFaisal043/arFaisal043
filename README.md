@@ -16,6 +16,7 @@
 #### **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?logo=typescript&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -23,18 +24,22 @@
 
 #### **Frameworks & Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-F05032?logo=linux&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node%20JS%20JS-F7DF1E?logo=node.js&logoColor=black)
+![Express JS](https://img.shields.io/badge/Express%20JS-F7DF1E?logo=express.js&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="25"> Core Skills
 | **Domain**          | **Expertise**                          |
 |---------------------|----------------------------------------|
-| ☕ Programming Languages | Java, Python, C, C++, JavaScript |
+| ☕ Programming Languages | Java, Python, C, C++, JavaScript, TypeScript |
 | 🧠 Data Structures & Algorithms | 100+ LeetCode problems |
+| ⚙️ Backend Development | CRUD APIs, Authentication, Security, Deployment |
 | 📊 Data Analytics | Python, SQL, Pandas, NumPy, Power BI |
 | 🗃️ Database Systems | MongoDB, SQL, ETL Pipelines |
-| ⚙️ System Design | Microservices, REST APIs |
-| 🖥️ Engineering Math | Calculus, Linear Algebra, Statistics |
+| ⚙️ System Design | REST APIs, Backend Architecture, Database Design, Microservices |
+| 🖥️ Engineering Math | Calculus, Linear Algebra, Statistics, Vector |
 
 ---
 
