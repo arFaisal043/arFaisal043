@@ -24,8 +24,9 @@
 
 #### **Frameworks & Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-150458?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-F05032?logo=linux&logoColor=white)
-![Node JS](https://img.shields.io/badge/Node%20JS%20JS-F7DF1E?logo=node.js&logoColor=black)
+![Node JS](https://img.shields.io/badge/Node%20JS-F7DF1E?logo=node.js&logoColor=black)
 ![Express JS](https://img.shields.io/badge/Express%20JS-F7DF1E?logo=express.js&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
@@ -36,9 +37,9 @@
 | ☕ Programming Languages | Java, Python, C, C++, JavaScript, TypeScript |
 | 🧠 Data Structures & Algorithms | 100+ LeetCode problems |
 | ⚙️ Backend Development | CRUD APIs, Authentication, Security, Deployment |
-| 📊 Data Analytics | Python, SQL, Pandas, NumPy, Power BI |
+| 📊 Data Analytics | Python, SQL, Pandas, NumPy, Excel, Google Sheets |
 | 🗃️ Database Systems | PostgreSQL, MySQL, MongoDB |
-| ⚙️ System Design | REST APIs, Backend Architecture, Database Design, Microservices |
+| ⚙️ System Design | REST APIs, Backend Architecture, Database Design |
 | 🖥️ Engineering Math | Calculus, Linear Algebra, Statistics, Vector |
 
 ---
