@@ -27,7 +27,7 @@
 ![Docker](https://img.shields.io/badge/Docker-150458?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-F05032?logo=linux&logoColor=white)
 ![Node JS](https://img.shields.io/badge/Node%20JS-F7DF1E?logo=node.js&logoColor=black)
-![Express JS](https://img.shields.io/badge/Express%20JS-F7DF1E?logo=express.js&logoColor=black)
+![Express JS](https://img.shields.io/badge/Express%20JS-150458?logo=express&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
