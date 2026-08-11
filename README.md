@@ -5,7 +5,7 @@
 
 [![Email](https://img.shields.io/badge/Email-arfaisal463%40gmail.com-red?style=flat&logo=gmail)](mailto:arfaisal463@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdur%20Rahman%20Faisal-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdur-rahman-faisal)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Website-orange)](https://arfaisal043.github.io/faisal.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Website-orange)](https://abdur-rahman-faisal.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/AR_Faisal/)
 
 </div>
@@ -34,7 +34,7 @@
 | **Domain**          | **Expertise**                          |
 |---------------------|----------------------------------------|
 | ☕ Programming Languages | Java, Python, C, C++, JavaScript, TypeScript |
-| 🧠 Data Structures & Algorithms | 100+ LeetCode problems |
+| 🧠 Data Structures & Algorithms | 200+ DSA problems |
 | ⚙️ Backend Development | CRUD APIs, Authentication, Security, Deployment |
 | 📊 Data Analytics | Python, SQL, Pandas, NumPy, Excel, Google Sheets |
 | 🗃️ Database Systems | PostgreSQL, MySQL, MongoDB |
