@@ -36,16 +36,17 @@
 | ☕ Programming Languages | Java, Python, C, C++, JavaScript, TypeScript |
 | 🧠 Data Structures & Algorithms | 200+ DSA problems |
 | ⚙️ Backend Development | CRUD APIs, Authentication, Security, Deployment |
+| ⚛️ Frontend Development | HTML5, CSS, Tailwind, React JS |
+| 🗃️ Database Systems | PostgreSQL, MySQL, MongoDB, Redis |
 | 📊 Data Analytics | Python, SQL, Pandas, NumPy, Excel, Google Sheets |
-| 🗃️ Database Systems | PostgreSQL, MySQL, MongoDB |
 | ⚙️ System Design | REST APIs, Backend Architecture, Database Design |
 | 🖥️ Engineering Math | Calculus, Linear Algebra, Statistics, Vector |
 
 ---
 
 ### 📊 **Coding Activity**  
-🌱 Currently Learning: Python & SQL for Data Science  
-☕ Solved 100+ LeetCode problems (Easy-Medium-Hard)  
+🌱 Currently Learning: System Design and Cloud Technology
+☕ Solved hundreds of LeetCode problems (Easy-Medium-Hard)  
 💻 Daily Coding Streak on LeetCode: 40+ days  
 
 ---
