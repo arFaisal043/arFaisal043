@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Abdur Rahman Faisal  
-**Aspiring Software & Data Engineer** | **AI Automation** | **CSE Undergrad @ Southeast University** 
+**Aspiring Software & AI Engineer** | **AI Automation** | **CSE Undergrad @ Southeast University** 
 
 <div align="center">
 
