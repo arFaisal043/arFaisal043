@@ -26,7 +26,7 @@
 
 ### 🛠️ **Technical Toolkit** 
 
-#### **Programming Languages**  
+#### **Programming Languages and Database**  
 [![Languages](https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python,java,postgres,mysql,mongodb,redis)](https://github.com/arFaisal043)
 
 #### **Frameworks**  
